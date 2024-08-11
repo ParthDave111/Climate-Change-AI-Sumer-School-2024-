@@ -13,3 +13,7 @@ In this repository, I am sharing all the learning for Climate Change AI Summer s
 
 
 ## Week -02
+|Content|Links |
+|:-:|:-:|
+|AI for Agriculture |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/2024%20Introduction%20to%20Machine%20Learning.pptx)|
+|AI for Forestry |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/2024%20Introduction%20to%20Machine%20Learning.pptx)|
