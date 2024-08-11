@@ -17,3 +17,10 @@ In this repository, I am sharing all the learning for Climate Change AI Summer s
 |:-:|:-:|
 |AI for Agriculture |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI%20Guest%20Lecture%20-%20AI%20for%20Agriculture.pdf)|
 |AI for Forestry |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Forest%20Slides%202024.pdf)|
+
+
+## Week -03
+|Content|Links |
+|:-:|:-:|
+|AI for Wildlife Conservation |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI%20Guest%20Lecture%20-%20AI%20for%20Agriculture.pdf)|
+|AI for Conservation Decesions |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Forest%20Slides%202024.pdf)|
