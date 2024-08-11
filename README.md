@@ -2,7 +2,7 @@
 
 In this repository, I am sharing all the learning for Climate Change AI Summer school, Montreal 
 
-## Week -01 
+## Week -01 Introduction to Climate Change and AI
 
 |Content|Links |
 |:-:|:-:|
@@ -12,14 +12,14 @@ In this repository, I am sharing all the learning for Climate Change AI Summer s
 |Meaningful Climate Action  | [Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI%2C%20Meaningful%20Climate%20Action%2C%20June%202024.pdf)|
 
 
-## Week -02
+## Week -02  AI for Agriculture, Forestry and other Land Use
 |Content|Links |
 |:-:|:-:|
 |AI for Agriculture |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI%20Guest%20Lecture%20-%20AI%20for%20Agriculture.pdf)|
 |AI for Forestry |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Forest%20Slides%202024.pdf)|
 
 
-## Week -03
+## Week -03 AI for Biodiversity and Ecosystem
 |Content|Links |
 |:-:|:-:|
 |AI for Wildlife Conservation |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI_tuia_compressed.pdf)|
