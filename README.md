@@ -28,3 +28,26 @@ In this repository, I am sharing all the learning for Climate Change AI Summer s
 |:-:|:-:|
 |AI for Wildlife Conservation |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI_tuia_compressed.pdf)|
 |AI for Conservation Decesions |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/LilyXu-AI-for-Conservation-Decisions.pdf)|
+
+
+
+## Week -04 AI for Social Science , Econimics and Policy 
+|Content|Links |
+|:-:|:-:|
+|Climate Innovation Policy|[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Climate%20Innovation%20Policy.pdf)|
+|Artificial Intelligence for Climate Action under the UNFCCC|[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI%20Summer%20School%202024_UNFCCC_TEC.pdf)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
