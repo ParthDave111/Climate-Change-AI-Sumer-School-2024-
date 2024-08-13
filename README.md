@@ -76,7 +76,7 @@ In this repository, I am sharing all the learning for Climate Change AI Summer s
 |Content|Links |
 |:-:|:-:|
 |GHG Impact assesment of AI  |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Copy%20of%20Impact_assessment_2024.pdf)|
-|AI for building and cities |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Copy%20of%20Impact_assessment_2024.pdf)|
+|Responsible AI and sustainability |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/%5BCCAI%20summer%20school%5D%20Responsible%20AI%20and%20Sustainability.pdf)|
 
 
 
