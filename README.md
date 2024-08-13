@@ -45,6 +45,10 @@ In this repository, I am sharing all the learning for Climate Change AI Summer s
 |AI for Weather Forecasting|[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI_AI4Weather_0702.pdf)|
 
 
+## Week -06 AI for Monitoring,Reporting and Verification
+|Content|Links |
+|:-:|:-:|
+|AI for Climate Science |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Machine%20learning%20for%20Emissions%20Accounting%20and%20Monitoring%20Final.pdf)|
 
 
 
