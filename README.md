@@ -80,3 +80,14 @@ In this repository, I am sharing all the learning for Climate Change AI Summer s
 
 
 
+## Week -11  AI For Power and Energy Systems
+|Content|Links |
+|:-:|:-:|
+|AI for power and Energy systems  |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI%20Summer%20School%202024%20-%20Power%20%26%20Energy%20Systems%20%5Bshareable%5D.pdf)|
+
+
+## WEEK 12 AI for Transport 
+|Content|Links |
+|:-:|:-:|
+|AI for power and Energy systems  |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/AI%20for%20transportation.pdf)|
+
