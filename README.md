@@ -1,7 +1,5 @@
 # Climate-Change-AI-Sumer-School-2024-
 
- [Back to Home Page](https://parthdave111.github.io/)
-
 
  
 In this repository, I am sharing all the learning for Climate Change AI Summer school, Montreal 
