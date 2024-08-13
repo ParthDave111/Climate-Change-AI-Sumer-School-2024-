@@ -73,6 +73,7 @@ In this repository, I am sharing all the learning for Climate Change AI Summer s
 |AI for building and cities |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/2024-07-19_Filip-Biljecki_compressed.pdf)|
 
 ## Week -10 GHE Impact assessment of AI
+|Content|Links |
 |:-:|:-:|
 |GHG Impact assesment of AI  |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Copy%20of%20Impact_assessment_2024.pdf)|
 |AI for building and cities |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Copy%20of%20Impact_assessment_2024.pdf)|
