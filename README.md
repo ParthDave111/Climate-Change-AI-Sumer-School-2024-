@@ -31,7 +31,7 @@ In this repository, I am sharing all the learning for Climate Change AI Summer s
 
 
 
-## Week -04 AI for Social Science , Econimics and Policy 
+## Week -04 AI for Social Science , Econimics and Policy -01
 |Content|Links |
 |:-:|:-:|
 |Climate Innovation Policy|[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Climate%20Innovation%20Policy.pdf)|
@@ -51,12 +51,31 @@ In this repository, I am sharing all the learning for Climate Change AI Summer s
 |AI for Climate Science |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Machine%20learning%20for%20Emissions%20Accounting%20and%20Monitoring%20Final.pdf)|
 
 
+## Week -07 AI for Social Science , Econimics and Policy -02
+|Content|Links |
+|:-:|:-:|
+|Climate Econometrics |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Climate%20Econometrics.pdf)|
+|A guide to updating US Gov Social cost of Carbon |[Paper](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/A%20Guide%20to%20Updating%20the%20US%20Government%E2%80%99s%20Social%20Cost%20of%20Carbon.pdf)|
+|Empirical Quantification of how climate impact socio-economic outcomes |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI_Proctor%20(1).pdf)|
 
 
 
+## Week -08 Ethics, Impacts and Regulation of AI 
+|Content|Links |
+|:-:|:-:|
+|Ethics of AI |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Ndaka_CCAI%20Presentation.pdf)|
+|Regulation of AI |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/CCAI%20Hacker%20Slides%20final.pdf)|
 
+## Week -09 AI for Building and Cities
+|Content|Links |
+|:-:|:-:|
+|Roles of Data and AI for climate change Migration |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Copy%20of%20CCAI_Summer_School_Cities_Climate_Change_AHsu.pptx.pdf)|
+|AI for building and cities |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/2024-07-19_Filip-Biljecki_compressed.pdf)|
 
-
+## Week -10 GHE Impact assessment of AI
+|:-:|:-:|
+|GHG Impact assesment of AI  |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Copy%20of%20Impact_assessment_2024.pdf)|
+|AI for building and cities |[Slides](https://github.com/ParthDave111/Climate-Change-AI-Sumer-School-2024-/blob/main/Copy%20of%20Impact_assessment_2024.pdf)|
 
 
 
